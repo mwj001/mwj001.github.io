@@ -1,0 +1,24 @@
+html {
+  background-color: #00539F;
+}
+body {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 auto;
+}
+h1 {
+  margin: 0 200px;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 1px 1px 1px black;
+}
+div{
+  margin: 100px auto;
+  padding: 0 200px;
+}
+button{
+  margin:0 200px 100px;
+}
+
+ 
