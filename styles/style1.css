@@ -14,11 +14,13 @@ h1 {
   text-shadow: 1px 1px 1px black;
 }
 div{
-  margin: 100px auto;
-  padding: 0 200px;
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #ff7f50;
+  padding: 0 auto;
 }
 button{
-  margin:0 200px 100px;
+  margin:0 100px 200px;
 }
 
  

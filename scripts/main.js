@@ -5,12 +5,12 @@ let changeImg = document.getElementById('img')
 let changeName = document.getElementById('name')
 
 changeImg.onclick= ()=>{
-	if (myImage.getAttribute('src') === 'images/Ganyu.jpg'){
-		myImage.setAttribute('src','images/Sealight Festival.jpg')
+	if (myImage.getAttribute('src') === 'images/mm02.jpg'){
+		myImage.setAttribute('src','images/mm03.jpg')
 		myImage.setAttribute('width', '800')
 		myImage.setAttribute('height', '450')
 }else{
-	myImage.setAttribute('src','images/Ganyu.jpg')
+	myImage.setAttribute('src','images/mm02.jpg')
 	myImage.setAttribute('width', '800')
 	myImage.setAttribute('height','450')
 }
